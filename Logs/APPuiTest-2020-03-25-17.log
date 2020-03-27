@@ -1,0 +1,13 @@
+[2020-03-25 17:33:04.964132] INFO: APPuiTest: 当前模块 开始测试
+[2020-03-25 17:33:31.491920] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:使用其他方式登录，操作方法:ByIdexistsclick ,元素:com.hzhu.m:id/tvOhterAccount,参数:
+[2020-03-25 17:33:46.040192] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:使用手机号登录，操作方法:ByIdexistsclick ,元素:com.hzhu.m:id/lin_phone,参数:
+[2020-03-25 17:33:51.654783] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:点击输入手机号，操作方法:existsclick ,元素:请输入手机号码,参数:
+[2020-03-25 17:33:57.220159] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:清空文本，操作方法:clearvalue ,元素:请输入手机号码,参数:
+[2020-03-25 17:34:02.788841] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:点击输入手机号，操作方法:ByIdexistsclick ,元素:com.hzhu.m:id/etTel,参数:
+[2020-03-25 17:34:08.378437] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:输入手机号，操作方法:ByIdsetvalue ,元素:com.hzhu.m:id/etTel,参数:14236363638
+[2020-03-25 17:34:13.882308] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:使用密码登录，操作方法:ByIdexistsclick ,元素:com.hzhu.m:id/tvAccountLogin,参数:
+[2020-03-25 17:34:19.362489] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:点击输入密码，操作方法:existsclick ,元素:输入密码,参数:
+[2020-03-25 17:34:24.912508] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:清空输入密码，操作方法:clearvalue ,元素:输入密码,参数:
+[2020-03-25 17:34:30.413343] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:输入密码，操作方法:setvalue ,元素:输入密码,参数:123456
+[2020-03-25 17:34:35.926193] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:点击登录，操作方法:ByIdexistsclick ,元素:com.hzhu.m:id/tvLoginAccountButton,参数:
+[2020-03-25 17:34:49.576417] INFO: APPuiTest: 邮件发送成功

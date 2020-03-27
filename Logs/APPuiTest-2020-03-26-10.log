@@ -1,0 +1,2 @@
+[2020-03-26 10:59:02.332852] INFO: APPuiTest: 当前模块 开始测试
+[2020-03-26 10:59:56.181539] INFO: APPuiTest: inputdata> 执行步骤:登录,操作名称:使用其他方式登录，操作方法:ByIdexistsclick ,元素:com.hzhu.m:id/tvOhterAccount,参数:
