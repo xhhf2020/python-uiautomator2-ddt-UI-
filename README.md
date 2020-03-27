@@ -19,5 +19,6 @@ python+uiautomator2+ddt UI自动化测试框架
 2、uiautomator2 介绍
 
 本框架基于uiautomator2 重构，其底层基于Google uiautomator，Google提供的uiautomator库可以获取屏幕上任意一个APP的任意一个控件属性
+
 有需要加我微信
 xhh2010
