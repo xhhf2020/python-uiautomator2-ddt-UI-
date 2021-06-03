@@ -1,4 +1,4 @@
-# python-uiautomator2--unittest-ddt-UI
+# python-uiautomator2--nittest-ddt-UI
 python+uiautomator2+ddt UI自动化测试框架
 1、框架结构
 （1）common  存放公共方法，公共模块
